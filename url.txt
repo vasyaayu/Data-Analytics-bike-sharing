@@ -1,2 +1,2 @@
 Tautan dashboard:
-https://data-analytics-bike-sharing-rzmbt7asgcaa96jkr7kxne.streamlit.app/
+https://data-analytics-bike-sharing-z9jqnb4csw3rn3mwaa69zr.streamlit.app/
